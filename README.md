@@ -1,1 +1,1 @@
-# undb-sistemas-poo
+EmpresaMarisqueira: não terá horario_funcionamento, id_habitaracao, individual / cadastrar_produto: Não tera unidade="kg" e falta id_produto/ realizar_pedido: falta id_pedido e status_produto/ avaliar_empresa: empresa não, é id_avaliacao/
